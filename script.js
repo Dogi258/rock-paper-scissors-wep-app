@@ -58,4 +58,4 @@ function game() {
   } else console.log("Player wins game! " + score + "/" + numOfRounds);
 }
 
-game();
+//game();
