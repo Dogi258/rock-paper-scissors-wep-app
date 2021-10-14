@@ -1,0 +1,7 @@
+body {
+  font-family: "Indie Flower", cursive;
+  background-image: url("images/pexels-tamanna-rumee-8823335.jpg");
+  background-size: cover;
+  backdrop-filter: blur(4px);
+  height: 100vh;
+}
