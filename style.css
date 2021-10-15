@@ -4,4 +4,28 @@ body {
   background-size: cover;
   backdrop-filter: blur(4px);
   height: 100vh;
+  font-size: 2em;
+  text-align: center;
+}
+
+header {
+  padding: 2rem;
+  border-bottom: 5px dotted black;
+}
+
+.button {
+  border: 3px solid black;
+  padding: 1rem;
+  width: 10rem;
+  border-radius: 10px;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+.container-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
 }
