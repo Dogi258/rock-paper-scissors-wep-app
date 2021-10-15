@@ -29,3 +29,11 @@ header {
   align-items: center;
   gap: 3rem;
 }
+
+.container-score h3 {
+  margin-bottom: 0;
+}
+
+.container-score h4 {
+  margin: 0;
+}
